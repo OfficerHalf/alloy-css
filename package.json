@@ -1,24 +1,21 @@
 {
-  "name": "simpledotcss",
+  "name": "alloy-css",
   "version": "2.0.1",
   "description": "Simple.css is a classless CSS template that allows you to make a good looking website really quickly.",
-  "main": "simple.css",
+  "main": "alloy.css",
   "files": [
-    "simple.css",
-    "simple.min.css",
-    "simple-v1.css",
-    "simple-v1.min.css"
+    "alloy.css"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevquirk/simple.css.git"
+    "url": "git+https://github.com/OfficerHalf/alloy-css.git"
   },
-  "author": "kevquirk",
+  "author": "OfficerHalf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kevquirk/simple.css/issues"
+    "url": "https://github.com/OfficerHalf/alloy-css/issues"
   },
-  "homepage": "https://github.com/kevquirk/simple.css#readme",
+  "homepage": "https://github.com/OfficerHalf/alloy-css#readme",
   "keywords": [
     "css",
     "html",
